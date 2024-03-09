@@ -39,8 +39,10 @@ To install all necessary node modules:
 
 `npm install`
 
-To run the demo locally:
 
+
+To run the demo locally:
+`npm run build`
 `npm run demo`
 
 
